@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28516.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Log4net.Appenders.Loki", "src\Log4net.Appenders.Loki\Log4net.Appenders.Loki.csproj", "{6C93F4F7-1A18-4367-9532-F5E6FD646583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C93F4F7-1A18-4367-9532-F5E6FD646583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C93F4F7-1A18-4367-9532-F5E6FD646583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C93F4F7-1A18-4367-9532-F5E6FD646583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C93F4F7-1A18-4367-9532-F5E6FD646583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06851A7B-CB05-4B4E-AD59-352D8DE735CD}
+	EndGlobalSection
+EndGlobal
